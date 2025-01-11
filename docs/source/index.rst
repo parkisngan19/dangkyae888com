@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+AE888 - Trang chủ đăng ký ae888 nhận 88k
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`AE888 <https://dangkyae888.com>`_ tự hào là nền tảng giải trí trực tuyến hàng đầu châu Á, mang đến cho người chơi những trải nghiệm độc đáo và thú vị. Với giao diện thân thiện, bảo mật cao và dịch vụ chuyên nghiệp, AE888 cung cấp đa dạng các trò chơi như thể thao, sòng bài trực tuyến, game bài đổi thưởng, bắn cá, nổ hũ, đá gà và xổ số. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Trang web dangkyae888.com là đối tác chiến lược toàn diện, hứa hẹn mang lại những giây phút giải trí đỉnh cao cùng cơ hội thắng lớn. Ngoài ra, AE888 còn tổ chức nhiều ưu đãi hấp dẫn hàng ngày, giúp người chơi tận hưởng trọn vẹn niềm vui và giá trị. Hãy tham gia và khám phá ngay hôm nay để nhận ngay 88K khi đăng ký!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 66C Nguyễn Sỹ Sách, Phường 15, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Hotline: 0939192992. 
 
-.. toctree::
+Email: cskh@ae888.com. 
 
-   usage
-   api
+Website: https://dangkyae888.com 
+
+#ae888 #trangchuae888 #dangkyae888 #dangnhapae888 #linkae888
